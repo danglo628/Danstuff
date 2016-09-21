@@ -1,0 +1,35 @@
+body{
+	padding:200px;
+	font-family: helvetica;
+	color: #fff;
+	background: url('../glttt.jpeg');
+}
+	
+a{
+	color: #fff;
+}
+
+
+.nav ul li{
+	list-style: none;
+	display: inline;
+
+}
+
+.nav li{
+	padding: 15px;
+}
+
+.nav a{
+	text-decoration: none;
+}
+
+.nav a:hover{
+	text-decoration: underline;
+}
+.text {
+	padding: 50px;
+	background-color: rgba(0,0,0,.5);
+	margin: 100px;
+      }
+.nav {background: color;}
